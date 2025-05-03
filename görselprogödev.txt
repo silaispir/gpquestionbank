@@ -1,0 +1,2 @@
+projeye pdf ekle
+word ve soru bankası oluştur pyqt5 ile
